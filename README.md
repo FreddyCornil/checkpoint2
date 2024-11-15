@@ -16,3 +16,9 @@ L'adresse attribuée correspond à la première disponible après la plage d'exc
     * La machine cliente peut avoir l'IP ````172.16.10.15````, il suffit de lui réserver l'adresse statique sur le serveur DHCP
 ![im4](./exo1_11.png)
 ![im4](./exo1_12.png)
+
+#### Exercice 2
+  - Question 2.1 :
+    * voir le fichier Main.ps1
+  - Question 2.2 et suivantes :
+    * voir le fichier AddLocalUsers.ps1
