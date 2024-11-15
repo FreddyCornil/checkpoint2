@@ -8,7 +8,7 @@ Il faut donc modifier l'adresse réseau statique de la machine cliente en la pas
 
   - Question 1.3 :
     * En DHCP, l'adresse IP attribuée à la machine cliente est ````172.16.10.20````  
-L'adresse attribuée correspond à la première disponible après la plage d'exclusion 
+L'adresse attribuée correspond à la première disponible après la plage d'exclusion ````172.16.10.1 - 172.16.10.19````    
 ![im4](./exo1_8.png)
 ![im4](./exo1_10.png)
 
