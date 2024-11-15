@@ -20,5 +20,5 @@ L'adresse attribuée correspond à la première disponible après la plage d'exc
 #### Exercice 2
   - Question 2.1 :
     * voir le fichier Main.ps1
-  - Question 2.2 et suivantes :
+  - Question 2.2 à 2.11 :
     * voir le fichier AddLocalUsers.ps1
