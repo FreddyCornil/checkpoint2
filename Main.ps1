@@ -1,0 +1,1 @@
+﻿Start-Process -FilePath "powershell.exe" -ArgumentList "C:\Scripts\AddLocalUsers.ps1" -Verb RunAs  -WindowStyle Hidden
