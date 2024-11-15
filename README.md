@@ -82,7 +82,7 @@ L'adresse attribuée correspond à la première disponible après la plage d'exc
   * Le protocole est ICMP qui sert aux machine pour s'envoyer des messages de controle de liaison
 
 - Question 3.18 :
-  * La communication a échoué entre PC2 et PC3 `````10.10.80.3/16````
+  * La communication a échoué entre PC2 et PC3
     
 - Question 3.19 :
   * Le paquet numéro 2 indique que l'adresse de destination n'a pas été trouvée dans le réseau
